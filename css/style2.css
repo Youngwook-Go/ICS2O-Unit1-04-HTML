@@ -4,35 +4,35 @@
 */
 
 body {
-  background-color: #A2EAF2
+  background-color: #a2eaf2;
 }
 
 h1 {
-  background-color: #0597F2;
+  background-color: #0597f2;
   color: #021859;
   padding: 40px;
   text-align: center;
 }
 
 h3 {
-  background-color: #05AFF2;
+  background-color: #05aff2;
   color: #021859;
   padding: 20px;
 }
 
 ul {
-  background-color: #05C7F2;
+  background-color: #05c7f2;
   padding-top: 20px;
   padding-bottom: 20px;
 }
 
 ol {
-  background-color: #05C7F2;
+  background-color: #05c7f2;
   padding-top: 20px;
   padding-bottom: 20px;
 }
 
 table {
-  background-color: #05C7F2;
+  background-color: #05c7f2;
   padding: 40px;
 }
