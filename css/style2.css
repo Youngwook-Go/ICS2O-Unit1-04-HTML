@@ -1,0 +1,38 @@
+/* Created by: Youngwook
+* Created on: Oct 2022
+* This file contains the CSS for index2.html
+*/
+
+body {
+  background-color: #A2EAF2
+}
+
+h1 {
+  background-color: #0597F2;
+  color: #021859;
+  padding: 40px;
+  text-align: center;
+}
+
+h3 {
+  background-color: #05AFF2;
+  color: #021859;
+  padding: 20px;
+}
+
+ul {
+  background-color: #05C7F2;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+ol {
+  background-color: #05C7F2;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+table {
+  background-color: #05C7F2;
+  padding: 40px;
+}
